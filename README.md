@@ -1,12 +1,11 @@
 # Ettutu V2 🚀
 
+## Currently in Beta testing stage. 
 
-# Currently in Beta testing stage. 
-
-# Video Presentaion:
+## Video Presentaion:
 https://youtu.be/4o_OW4o0CgA?si=g6eggfdjHhyZHwnI
 
-
+## Introduction 
 **Next-generation lead harvesting platform with modular plugin architecture**
 
 Ettutu V2 is a lead harvesting and contact management platform that helps teams find, analyze, and manage business leads more efficiently.
