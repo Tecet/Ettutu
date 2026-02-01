@@ -71,7 +71,7 @@ Ettutu V2 is a lead harvesting and contact management platform that helps teams 
 
 
 
-```
+
 
 ## Project Structure
 
